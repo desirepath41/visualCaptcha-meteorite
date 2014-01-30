@@ -1,0 +1,8 @@
+{
+  "name": "VisualCaptcha",
+  "description": "Visual Captcha for MEteor",
+  "homepage": "",
+  "author": "Fernando Doglio <fernando@clevertech.com>",
+  "version": "1.0.0",
+  "packages": {}
+}
