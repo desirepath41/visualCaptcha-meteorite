@@ -4,6 +4,6 @@
   "homepage": "http://visualcaptcha.net",
   "author": "emotionLoop <hello@emotionloop.com>",
   "git": "https://github.com/emotionLoop/visualCaptcha-meteorite.git",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "packages": {}
 }

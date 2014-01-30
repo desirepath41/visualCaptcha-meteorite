@@ -3,7 +3,7 @@ Package.describe({
 });
 
 Npm.depends({
-  "visualcaptcha" : "*"
+  "visualcaptcha" : "0.0.1"
 })
 
 
