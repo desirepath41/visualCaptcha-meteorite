@@ -3,6 +3,7 @@
   "description": "Visual Captcha for Meteor",
   "homepage": "http://visualcaptcha.net",
   "author": "emotionLoop <hello@emotionloop.com>",
+  "git": "https://github.com/emotionLoop/visualCaptcha-meteorite.git",
   "version": "1.0.0",
   "packages": {}
 }
